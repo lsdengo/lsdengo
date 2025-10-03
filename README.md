@@ -1,6 +1,6 @@
 # Hi, I'm Jordan 👋
 
-I'm a Software Engineering student and aspiring developer. I enjoy working with algorithms, system-level programming, and building practical applications.  
+I’m a first-year software engineering student passionate about building clean, practical solutions and growing through hands-on projects.
 
 ## Skills
 - Python, C, C++  
