@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jordan 👋
 
-<!--
-**lsdengo/lsdengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student and aspiring developer. I enjoy working with algorithms, system-level programming, and building practical applications.  
 
-Here are some ideas to get you started:
+## Skills
+- Python, C, C++  
+- SQL, Flask, Django  
+- Git, Bash, Neovim  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Library Management App](https://github.com/lsdengo/cs50x_final_project/tree/main/app) — C++ console app with CRUD operations and file storage  
+- [JDM Car Encyclopedia](https://github.com/lsdengo/cs50x_final_project/tree/main/app) — Minimalistic lookup website with Jinja2 templates
+- [Python Weather App](https://github.com/lsdengo/cs50x_final_project/tree/main/app) — Minimalistic weather app with a GUI and an API made with PyQt5   
+
+
+## Currently Learning
+- Java  
+- Cloud deployment
+- Advanced Vim/Neovim workflows
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/vuchkov24/)  
+- [Email](mailto:dvuchkov@hotmail.com)  
