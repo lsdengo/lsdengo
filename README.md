@@ -14,7 +14,8 @@ I'm a Software Engineering student and aspiring developer. I enjoy working with 
 
 
 ## Currently Learning
-- Java  
+- Java OOP
+- Linear algebra
 - Cloud deployment
 - Advanced Vim/Neovim workflows
 
